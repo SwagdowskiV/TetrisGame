@@ -32,14 +32,14 @@ The game features falling Tetris pieces, player-controlled movement, piece rotat
 
 ## 🎮 Controls
 
-| Key            | Action           |
-| -------------- | ---------------- |
-| ⬅️ Left Arrow  | Move piece left  |
-| ➡️ Right Arrow | Move piece right |
-| ⬇️ Down Arrow  | Move piece down  |
-| ⬆️ Up Arrow    | Rotate piece     |
-| `SPACE`        | Hard drop        |
-| `ESC`          | Quit game        |
+| Key                 | Action           |
+| ------------------- | ---------------- |
+| ⬅️ A or Left Arrow  | Move piece left  |
+| ➡️ D or Right Arrow | Move piece right |
+| ⬇️ S or Down Arrow  | Move piece down  |
+| ⬆️ W or Up Arrow    | Rotate piece     |
+| `SPACE`             | Hard drop        |
+| `ESC`               | Quit game        |
 
 ---
 
